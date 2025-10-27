@@ -18,6 +18,32 @@ npx --version
 
 버전이 모두 출력되어야 정상
 
+# MCP 설정
+{
+  "mcpServers": {
+
+    "context7": {
+      "_comment": "https://context7.com/  키 발급 필요" ,
+
+      "type": "http",
+      "url": "https://mcp.context7.com/mcp",
+      "headers": {
+        "CONTEXT7_API_KEY": "본인 key 입력"
+      }
+    },
+
+    "ddg-search": {
+      "_comment": "https://github.com/nickclyde/duckduckgo-mcp-server 파이썬 패키지 설치 필요",
+
+      "command": "uvx",
+      "args": ["duckduckgo-mcp-server"]
+    }
+    
+  }
+}
+
+
+
 # 실습자료 제출 
 1. 프롬프트 엔지니어링 실습  
    https://form.jotform.com/252988672307470  
