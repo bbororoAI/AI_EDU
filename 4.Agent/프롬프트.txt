@@ -1,0 +1,23 @@
+<프롬프트>
+streamlit + MCP + DuckDuckGo + Context7을 활용한 종합 정보 검색 AI Agent를 만들어줘
+
+## 핵심 구성 요소
+1. 웹 검색 시스템 (DuckDuckGo MCP)
+실시간 웹 검색 : 최신 정보, 뉴스, 토론 글 수집
+10개 검색 결과 : 제목, URL, 요악 정보 포함
+한국어 컨텐츠 강화 : 국내 기술 블로그 및 기사도 검색
+
+2. 기술 문서 검색 엔지 (Context7 MCP)
+라이브러리 문서 :Python, JavaScript, React 등 공식문서
+100개+ 코드 스니펫 : 실행 가능한 예제 코드 포함
+컨텍스트 검색 : 키워드 기반 지능형 문서 매칭
+
+3. MCP 통신 시스템 (Streamlit_app.py)
+비동기 병렬 검색 : MCP 서버 동시 호출
+표준화된 프로토콜 : Model Context Protocol 준수
+예외 핸들링 : 서버 연결 실패 시 일관된 오류 메시지
+
+5. Streamlit 웹 UI (Streamlit_app.py)
+실시간 검색 인터페이스
+소스 별 분할 결과 표시
+하이라이트, 순서, 필터 제공
