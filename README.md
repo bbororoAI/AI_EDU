@@ -23,24 +23,19 @@ npx --version
 ```
 {
   "mcpServers": {
-
     "context7": {
-      "_comment": "https://context7.com/  키 발급 필요" ,
-
+      "_comment": "https://context7.com/  키 발급 필요",
       "type": "http",
       "url": "https://mcp.context7.com/mcp",
       "headers": {
-        "CONTEXT7_API_KEY": "본인 key 입력"
+        "CONTEXT7_API_KEY": "본인 Key 입력"
       }
     },
-
-    "ddg-search": {
-      "_comment": "https://github.com/nickclyde/duckduckgo-mcp-server 파이썬 패키지 설치 필요",
-
-      "command": "uvx",
-      "args": ["duckduckgo-mcp-server"]
+    "Exa Search": {
+      "type": "http",
+      "url": "https://mcp.exa.ai/mcp?api_key= 본인 Key 입력 &profile=increasing-mosquito-jOP8sU",
+      "headers": {}
     }
-    
   }
 }
 ```
