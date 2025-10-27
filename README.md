@@ -21,7 +21,8 @@ npx --version
 # playwright 설치
 (MDS 검사 시간이 오래 걸림)
 
-npm init playwright@latest  
+npm init playwright@latest   
+npx playwright install chromium 
 npx playwright test  
 
 
