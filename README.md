@@ -18,6 +18,12 @@ npx --version
 
 버전이 모두 출력되어야 정상
 
+# playwright 설치
+
+npm init playwright@latest
+
+
+
 # MCP 설정
 
 ```
