@@ -19,6 +19,8 @@ npx --version
 버전이 모두 출력되어야 정상
 
 # MCP 설정
+
+```
 {
   "mcpServers": {
 
@@ -41,7 +43,7 @@ npx --version
     
   }
 }
-
+```
 
 
 # 실습자료 제출 
