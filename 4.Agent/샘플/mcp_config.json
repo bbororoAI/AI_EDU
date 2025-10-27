@@ -1,0 +1,28 @@
+{
+  "mcpServers": {
+    "context7-mcp": {
+      "command": "cmd",
+      "args": [
+        "/c",
+        "npx",
+        "-y",
+        "@smithery/cli@latest",
+        "run",
+        "@upstash/context7-mcp",
+        "--key",
+        "본인 key 입력"
+      ]
+    },
+    "ddg_search": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@smithery/cli@latest",
+        "run",
+        "@OEvortex/ddg_search",
+        "--key",
+        "본인 key 입력"
+      ]
+    }
+  }
+}
