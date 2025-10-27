@@ -16,7 +16,7 @@ class SimpleMCPClient:
     def __init__(self):
         self.web_search_url = "https://api.duckduckgo.com/"
         self.context7_url = "https://context7.upstash.io/"
-        self.api_key = "681f27ea-26ab-4fae-aa6b-cab4f0655433"
+        self.api_key = "본인 key 입력"
     
     async def search_web_direct(self, query: str, max_results: int = 10) -> List[Dict[str, Any]]:
         """DuckDuckGo 직접 API 호출"""
