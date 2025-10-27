@@ -16,6 +16,8 @@ node --version
 npm --version  
 npx --version  
 
+버전이 모두 출력되어야 정상
+
 # 실습자료 제출 
 1. 프롬프트 엔지니어링 실습  
    https://form.jotform.com/252988672307470  
