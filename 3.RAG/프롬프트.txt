@@ -1,0 +1,16 @@
+<프롬프트>
+간단한 텍스트 파일을 '외부 지식'으로 삼아, AI 챗봇이 해당 파일의 내용에 근거하여 답변하게 만드는 RAG를 구축해줘
+
+## 구성요소
+지식 저장소 : company_rules.txt - AI가 참고할 정답지.
+RAG 실행기 : simple_rag.py - AI에게 '정답지'를 보여주고 질문을 던지는 프로그램
+
+## 동작방식
+1. 검색 : company_rules.txt 파일의 모든 텍스트를 불러옵니다.
+2. 보강 : AI에게 보낼 프롬프트를 '우리가 검색한 지식 + 사용자의 질문' 형태로 조합합니다.
+3. 생성 : '보강된 프롬프트'를 AI 모델에게 전달하여, 제공된 지식에 기반한 정확한 답변을 얻어냅니다.
+
+
+<openai 관련 오류 발생시>
+@web
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 문제 수정해줘
