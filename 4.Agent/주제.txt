@@ -1,0 +1,69 @@
+#실무 자동화/기업 분야
+이메일 자동 분류/응답 agent​ 
+문서 OCR 및 ERP 업로드 자동화 agent​ 
+일정/프로젝트 관리 agent​ 
+회의 요약 및 기록 agent 
+인사채용 추천 agent​ 
+영업/CRM 자동화 agent​ 
+법률 문서 검토/계약 분석 agent​ 
+재무/회계 보고서 자동화 agent 
+사기 및 보안 위협 탐지 agent​ 
+재고/물류 최적화 agent​ 
+
+#헬스케어/복지
+건강 상태 모니터링/예측 agent​
+의료 기록 정리 agent
+환자 케어 챗봇 agent
+병원/보험 청구 자동화 agent​
+정신건강 상담 assistant agent
+
+#교육/러닝
+개인 맞춤형 학습 추천 agent​
+언어 과외/튜터 agent​
+시험/퀴즈 자동 출제 agent
+실시간 학습 피드백 agent
+학습 계획/관리 agent
+
+#엔터테인먼트/소비자
+음악/동영상 콘텐츠 추천 agent​
+개인 맞춤 독서 추천 agent
+게임 플레이어 지원 companion agent​
+영화/취향 분석 agent
+개인화 쇼핑 도우미 agent​
+여행 일정 플래너 agent​
+
+#산업/과학/기술
+스마트 팩토리 생산라인 모니터링 agent​
+에너지/전력 수요 예측 agent​
+스마트팜 작물 관리 agent​
+실시간 위험 탐지 agent​
+제품 품질 검사/자동 리포트 agent
+부동산 가격 분석 agent​
+
+#개발/IT/코딩
+코드 생성/리뷰 agent
+API 연동 자동화 agent​
+멀티 에이전트 협업 워크플로우 agent​
+데이터 분석/시각화 agent
+GPT 기반 문서/템플릿 작성 agent
+
+#기타 일상 지원/창작
+일상 스케줄링 agent
+상담/멘토링 agent
+집안 자동화 (IoT) agent
+스마트 홈 관리 agent
+온라인 커뮤니티 모더레이터 agent
+개인 금융 비용 관리 agent
+
+#RAG/특화 AI 서비스지향
+자기소개서 자동 작성 agent
+SNS 포스트/댓글 자동생성 agent
+사용자 질문 정보 자동 수집 agent
+주문/예약 자동 처리 agent
+상황별 안내/헬프데스크 agent
+
+#창의/사회적 활동
+예술 작품 생성 agent
+키워드 기반 글/카피 제작 agent
+자동 뉴스 요약 및 분석 agent
+트렌드 및 시장 조사 agent
