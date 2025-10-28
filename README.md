@@ -52,3 +52,11 @@ npx --version
    https://form.jotform.com/252988881637478  
 
 
+# 기타 참고 자료
+
+https://docs.cursor.com/ko/guides/working-with-context  
+https://github.com/PatrickJS/awesome-cursorrules
+
+
+
+
