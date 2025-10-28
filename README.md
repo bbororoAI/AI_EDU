@@ -58,5 +58,13 @@ https://docs.cursor.com/ko/guides/working-with-context
 https://github.com/PatrickJS/awesome-cursorrules
 
 
+# Python Openai ssl 오류 우회 방법
+
+import httpx  
+
+http_client = httpx.Client(verify=False)  
+client = OpenAI(api_key=api_key, http_client=http_client)  
+
+
 
 
