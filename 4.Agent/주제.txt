@@ -1,3 +1,6 @@
+https://discuss.pytorch.kr/t/500-ai-agents-projects-500-ai-agent-github/7621
+
+
 #실무 자동화/기업 분야
 이메일 자동 분류/응답 agent​ 
 문서 OCR 및 ERP 업로드 자동화 agent​ 
