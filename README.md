@@ -55,7 +55,8 @@ npx --version
 # 기타 참고 자료
 
 https://docs.cursor.com/ko/guides/working-with-context  
-https://github.com/PatrickJS/awesome-cursorrules
+https://github.com/PatrickJS/awesome-cursorrules  
+https://www.commits.world/p/12-ways-to-properly-use-cursor  
 
 
 # Python Openai ssl 오류 우회 방법
