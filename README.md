@@ -1,5 +1,5 @@
 # AI_EDU
-AI 코딩 교육 5차수 (10.27~10.28)
+AI 코딩 교육 14차수 (12.22~12.23)
 
 # 프로그램 설치 및 환경 확인
 <파이썬 3.10 이상>  
@@ -19,8 +19,34 @@ npx --version
 버전이 모두 출력되어야 정상
 
 # MCP 설정
+```
+VSCODE
+
+{
+	"inputs": [],
+	"servers": {
+		"context7": {
+			"_comment": "https://context7.com/  키 발급 필요",
+			"type": "http",
+			"url": "https://mcp.context7.com/mcp",
+			"headers": {
+				"CONTEXT7_API_KEY": " 본인KEY입력 "
+			}
+		},
+		"Exa Search": {
+			"_comment": "https://smithery.ai/ 에서 키 확인",
+			"type": "http",
+			"url": "https://mcp.exa.ai/mcp?api_key= 본인KEY입력 &profile=increasing-mosquito-jOP8sU",
+			"headers": {}
+		}
+	}
+}
 
 ```
+
+```
+CURSOR
+
 {
   "mcpServers": {
     "context7": {
