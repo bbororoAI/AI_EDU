@@ -84,6 +84,9 @@ https://docs.cursor.com/ko/guides/working-with-context
 https://github.com/PatrickJS/awesome-cursorrules  
 https://www.commits.world/p/12-ways-to-properly-use-cursor  
 
+AI AGENT 주제
+https://discuss.pytorch.kr/t/500-ai-agents-projects-500-ai-agent-github/7621
+
 
 # Python Openai ssl 오류 우회 방법
 
